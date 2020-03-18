@@ -13,7 +13,7 @@ Alles Gute und bleiben Sie gesund!
 
 Ihr KompetenzwerkD - Dirk Goldhahn, Peter Mühleder und Franziska Naether
 
-Kontakt: KompetenzwerkD@saw-leipzig.de
+Kontakt: [KompetenzwerkD@saw-leipzig.de](mailto:KompetenzwerkD@saw-leipzig.de)
 
 ## Video-Tools für Besprechungen, Vorträge/Lehrveranstaltungen als Livestream etc.
 
@@ -47,7 +47,7 @@ Es kann hilfreich sein, sich über andere Kommunikationsformen als E-Mails, Anru
 * [Signal](https://signal.org/) - Freier, verschlüsselter Nachrichtendienst (Messenger) für Smartphones und Desktop-Computer, generell eine Alternative zu WhatsApp/Facebook Messenger
 * [Telegram](https://telegram.org/) - dito
 * [Slack](https://slack.com/) - Teamarbeitsumgebung
-* [Riot](https://about.riot.im/) - Verschlüsselter Nachrichtendienst (Chat-Messenger) [manchmal sehr langsam](müsst aber wo aufgesetzt werden - matrix funktioniert nur mäßig gut bei mir)
+* [Riot](https://about.riot.im/) - Verschlüsselter Nachrichtendienst (Chat-Messenger) [manchmal sehr langsam]
 * [Discord](https://discordapp.com) - Verschlüsselter Nachrichtendienst, ursprünglich aus der Gaming-Community, für Text- und Sprachnachrichten
 
 ## Tool zum kollaborativen Schreiben (Alternativen zu Google Docs, Dropbox etc.)
@@ -113,7 +113,7 @@ Sicherlich sind Ihnen diese wichtigen Adressen bekannt. Beziehen Sie von dort Ih
 * [Informationen der Universität Leipzig](https://www.uni-leipzig.de/universitaet/service/informationen-zum-coronavirus/)
 * [Informationen der TU Dresden](https://tu-dresden.de/tu-dresden/gesundheitsmanagement/information-regarding-covid-19-coronavirus-sars-cov-2)
 
-Gibt es weitere Themen, zu denen Sie sich Informationen wünschen? Dann schreiben Sie uns: KompetenzwerkD@saw-leipzig.de 
+Gibt es weitere Themen, zu denen Sie sich Informationen wünschen? Dann schreiben Sie uns: K[KompetenzwerkD@saw-leipzig.de](mailto:KompetenzwerkD@saw-leipzig.de)
 
 
 
