@@ -68,7 +68,7 @@ Wenn Sie mehr benötigen als simple To-Do-Listen, dann werden Sie bei diesem Anb
 Die Hochschulen starten in der Regel zum regulären Beginn der Vorlesungszeit mit digitalen Lehrveranstaltungen. Das bedeutet einen hohen Arbeitsaufwand für Lehrende, denn neben der Vorbereitung der Sitzungen kommt noch die technische Umsetzung dazu. Machen Sie sich keine Illusionen: digitale Lehre braucht Zeit, es geht auch mal etwas schief und nicht immer erreicht man alle Studierenden. Aber es ist kein Hexenwerk und macht Spaß! Hier ein paar Hinweise dazu:
 * [Eine sehr gute Zusammenstellung auch zu digitalen Lernplattformen (z. B. Moodle), Software zum Aufnehmen von Vorträgen bietet die Link- und Toolsammlung des Hochschulforum Digitalisierung](https://hochschulforumdigitalisierung.de/de/Toolsammlung-Corona)
 
-### Hinweise: 
+### Hinweise
 * Spontane digitale Lehre muss nicht perfekt sein!
 * Rundmails an Studierende mit verlässlichen Ansagen zu Anforderungen und Abläufen sind hilfreich für alle Beteiligten, gerne mit Ermunterungen.
 * Planen Sie bei Vorbereitung und während der Kurse einen Zeitpuffer für unvorhergesehene Unterbrechungen (“Troubleshooting”) ein - gerade, wenn Sie und Ihre Studierenden Software installieren müssen.
@@ -76,7 +76,7 @@ Die Hochschulen starten in der Regel zum regulären Beginn der Vorlesungszeit mi
 * Unter Umständen werden Sie nicht alle Studierenden online erreichen. Nicht alle werden aus unterschiedlichen Gründen (Behinderung, Krankheiten, technische Ausstattung, Netzprobleme etc.) Zugang zu Ihrer digitalen Lehre haben. Bieten Sie virtuelle Sprechstunden an oder eine Erreichbarkeit per E-Mail.
 * Betreuung von Qualifikationsarbeiten: Hier bietet sich an, mit den Kandidat*innen den Zeitplan unter Umständen zu aktualisieren, da die Bibliotheken geschlossen sind und Hochschulen nach und nach ihre Prüfungszeiträume aussetzen.
 
-### Weiterlesen:
+### Weiterlesen
 * [Materialien und Websites zur digitalen Hochschulbildung (via Hochschuldikatisches Zentrum Sachsen/Projekt Lit+)]( https://yourpart.eu/p/6Ot0NhCVGb); [siehe auch hier](https://www.hd-sachsen.de)
 * [Michelle D. Miller, The Chronicle of Highler Education (Englisch), Going Online in a Hurry: What to Do and Where to Start]( https://www.chronicle.com/article/Going-Online-in-a-Hurry-What/248207)
 * [Rebecca Barrett-Fox (Englisch), Please do a bad job of putting your courses online]( https://anygoodthing.com/2020/03/12/please-do-a-bad-job-of-putting-your-courses-online/) 
