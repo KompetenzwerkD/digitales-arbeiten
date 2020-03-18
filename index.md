@@ -7,6 +7,7 @@ Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen 
 Bitte beachten Sie gegebenenfalls Vorgaben Ihres Instituts bezüglich der Nutzung externer Dienste. Häufig erfolgt eine Übertragung bzw. Speicherung der jeweiligen Daten auf den Servern eines kommerziellen im Ausland ansässigen Unternehmens, die datenschutzrechtlich in Deutschland nicht immer gestattet sind. Nach unserem Kenntnisstand sind derzeit die Vorgaben der Institutionen gelockert, aber das kann sich später wieder ändern. Generell empfehlen wir Lösungen, die open access/open source/open code gewährleisten.
 
 *Für die Mitarbeiter der SAW:*
+
 Bereits jetzt können Sie in der [SAW-Cloud](https://cloud.saw-leipzig.de) mit ihrem SAW-Login: an Word bzw. MS-Office Dokumenten arbeiten (genutzte Software: Only Office), Dateien speichern (Cloud-Service), einen Kalender führen, Aufgabenlisten erstellen etc..
 
 Alles Gute und bleiben Sie gesund!
