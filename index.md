@@ -27,6 +27,7 @@ Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip [
 * [Adobe Connect](https://www.adobe.com/products/adobeconnect.html)
 * [Google Hangouts](https://hangouts.google.com/)
 * [GoToMeeting](https://www.gotomeeting.com/de-de) [zeitweise überlastet]
+* [Jitsi](https://jitsi.org/)
 * [Skype](https://www.skype.com/de/)
 * [WebEx](https://www.webex.com)
 * [Zoom](https://zoom.us/kostenlose) 
@@ -53,9 +54,12 @@ Es kann hilfreich sein, sich über andere Kommunikationsformen als E-Mails, Anru
 
 ## Tool zum kollaborativen Schreiben (Alternativen zu Google Docs, Dropbox etc.)
 Der Alltag wird immer mehr durch das gemeinsame Abfassen von Dokumenten aller Art bestimmt. Außer der neu aufgesetzten SAW-Cloud (basierend auf Nextcloud Hub und Only Office) haben wir folgende Vorschläge:
+* [AWW App](https://awwapp.com/#) - Digitales Whiteboard, auch zum Zeichnen
 * [HackMD](https://hackmd.io/) - Zum gemeinsamen Verfassen von Dokumenten (im Markdown-Format). Eine offene Instanz der Open Knowledge Foundation finden Sie [hier](https://hackmd.okfn.de/).
 * [CryptPad](https://cryptpad.fr/) - Verschlüsselter Dienst für Richtext Dokumente, Spreadsheets, Todos, etc. Mit einer einfachen Anmeldung (ohne Angabe einer Email-Adresse) erhält man 50 MB Speicher.
 * [Etherpad](https://etherpad.org/) - Open Source-Dienst für Dokumente. Freie Etherpad Instanzen sind [hier](https://yourpart.eu/) und [hier](https://pad.riseup.net/) zu finden.
+* [Limnu](https://limnu.com/) - Digitales Whiteboard zum Zeichnen und für Brainstorming
+* [Padlet](https://padlet.com/) - Zum gemeinsamen Arbeiten an Dokumenten, Präsentationen, Websites
 * [Sciflow](https://sciflow.net/de/) - Editor zum Schreiben und Formatieren wissenschaftlicher Texte
 
 ## Tool für Projektmanagement (Aufgabenlisten etc.)
@@ -68,6 +72,7 @@ Wenn Sie mehr benötigen als simple To-Do-Listen, dann werden Sie bei diesem Anb
 ## Digitale Lehre
 Die Hochschulen starten in der Regel zum regulären Beginn der Vorlesungszeit mit digitalen Lehrveranstaltungen. Das bedeutet einen hohen Arbeitsaufwand für Lehrende, denn neben der Vorbereitung der Sitzungen kommt noch die technische Umsetzung dazu. Machen Sie sich keine Illusionen: digitale Lehre braucht Zeit, es geht auch mal etwas schief und nicht immer erreicht man alle Studierenden. Aber es ist kein Hexenwerk und macht Spaß! Hier ein paar Hinweise dazu:
 * [Eine sehr gute Zusammenstellung auch zu digitalen Lernplattformen (z. B. Moodle), Software zum Aufnehmen von Vorträgen bietet die Link- und Toolsammlung des Hochschulforum Digitalisierung](https://hochschulforumdigitalisierung.de/de/Toolsammlung-Corona)
+* Moodle, Universität Leipzig (Uni-Login erforderlich): Viele Hinweise bietet der [Autorenhilfekurs](https://moodle2.uni-leipzig.de/course/info.php?id=104)
 
 ### Hinweise
 * Spontane digitale Lehre muss nicht perfekt sein!
@@ -75,7 +80,7 @@ Die Hochschulen starten in der Regel zum regulären Beginn der Vorlesungszeit mi
 * Planen Sie bei Vorbereitung und während der Kurse einen Zeitpuffer für unvorhergesehene Unterbrechungen (“Troubleshooting”) ein - gerade, wenn Sie und Ihre Studierenden Software installieren müssen.
 * Es ist effektiver, Sitzungen in kleinen “Häppchen” von 15-30 Minuten mit Unterbrechungen aufzuzeichnen/abzuhalten statt als 90minütige Vorlesungen.
 * Unter Umständen werden Sie nicht alle Studierenden online erreichen. Nicht alle werden aus unterschiedlichen Gründen (Behinderung, Krankheiten, technische Ausstattung, Netzprobleme etc.) Zugang zu Ihrer digitalen Lehre haben. Bieten Sie virtuelle Sprechstunden an oder eine Erreichbarkeit per E-Mail.
-* Betreuung von Qualifikationsarbeiten: Hier bietet sich an, mit den Kandidat*innen den Zeitplan unter Umständen zu aktualisieren, da die Bibliotheken geschlossen sind und Hochschulen nach und nach ihre Prüfungszeiträume aussetzen.
+* Betreuung von Qualifikationsarbeiten: Hier bietet sich an, mit den Kandidat/innen den Zeitplan unter Umständen zu aktualisieren, da die Bibliotheken geschlossen sind und Hochschulen nach und nach ihre Prüfungszeiträume aussetzen.
 
 ### Weiterlesen
 * [Materialien und Websites zur digitalen Hochschulbildung (via Hochschuldikatisches Zentrum Sachsen/Projekt Lit+)]( https://yourpart.eu/p/6Ot0NhCVGb); [siehe auch hier](https://www.hd-sachsen.de)
@@ -86,8 +91,10 @@ Die Hochschulen starten in der Regel zum regulären Beginn der Vorlesungszeit mi
 ## Arbeiten im Home Office
 * Arbeiten im Dauer-Home Office ist eine Umstellung. Achten Sie auf Routinen, regelmäßige Pausen, Bewegung/Sport und gesunde Ernährung.
 * Strukturieren Sie Ihren Arbeitsalltag durch Pläne oder To-Do-Listen. Das ist insbesondere zielführend, wenn Sie im Team arbeiten.
+* Erwarten Sie nicht zu viel und legen Sie die Messlatte für sich und Ihr Umfeld nicht zu hoch an. Familienarbeit, Umstellung, Unsicherheiten, Ängste und Weiteres wirken sich auf die berufliche Effizienz aus. 
 * Wenn möglich, reduzieren Sie Ablenkungen durch E-Mails, Nachrichten- und Messenger-Dienste auf bestimmte Zeiten (“Sprechstunden”). Ggf. schalten Sie Ihr Smartphone auf lautlos. Insbesondere wissenschaftliches Arbeiten (Schreiben, Recherchieren, Übersetzen, Quellenarbeit) erfordert ein hohes Maß an Konzentration und weiteren Kompetenzen.
-* Drei Hinweise für Führungskräfte mit Mitarbeiter*innenverantwortung: „Gehen Sie in Vorleistung und bekennen sich aktiv zu Ihrem eigenen aktuellen Befinden.“; Arbeiten Sie mit einer „kurzfristige Perspektive auf Ziele“ – so können Mitarbeiter*innen „,auf Sicht‘ Resultate zu erzielen“; „Versorgen Sie sich selbst“: Quelle: [Fa. Keller Partner](https://www.keller-partner.de/). Denken Sie auch an prekär beschäftigte Hilfskräfte und Lehrbeauftragte, deren Verträge vielleicht schon während der Corona-Pandemie enden und die oft nicht in allen Verteilern sind.
+* Drei Hinweise für Führungskräfte mit Mitarbeiter/innenverantwortung: „Gehen Sie in Vorleistung und bekennen sich aktiv zu Ihrem eigenen aktuellen Befinden.“; Arbeiten Sie mit einer „kurzfristige Perspektive auf Ziele“ – so können Mitarbeiter/innen „,auf Sicht‘ Resultate zu erzielen“; „Versorgen Sie sich selbst“: Quelle: [Fa. Keller Partner](https://www.keller-partner.de/). Denken Sie auch an prekär beschäftigte Hilfskräfte und Lehrbeauftragte, deren Verträge vielleicht schon während der Corona-Pandemie enden und die oft nicht in allen Verteilern sind.
+* Wir empfehlen ein agiles Projektmanagement. Beschränken Sie sich auf die essentiellen Aufgaben statt Punkte abzuhaken - und überprüfen Sie täglich im Team, was momentan ansteht. Erfolgversprechend sind auch geteilte Führung, Teams, die sich selbst organisieren, verstärkte Kommunikation untereinander, und das Treffen von Entscheidungen. Wenn etwas nicht funktioniert, disponieren Sie um. Quelle: United Nations, Organization Development and Change Management
 
 ## Lernen, Helfen, Ideen für Abwechslung
 Ein paar Links, die für Arbeit und Leben im home office (auch mit Kindern) von Interesse sein können. Ganz arbiträr und als Anregung gedacht, bestimmt fällt Ihnen noch viel mehr ein.
