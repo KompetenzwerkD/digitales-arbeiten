@@ -1,6 +1,6 @@
 # Arbeiten in Zeiten von Corona
 
-*Stand: 19.03.2020*
+*Stand: 23.03.2020*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
@@ -105,6 +105,7 @@ Ein paar Links, die für Arbeit und Leben im home office (auch mit Kindern) von 
 * [Sketchfab](https://sketchfab.com/members?segment=organization%2Fmuseum) - 3D-Modelle von Artefakten in Museen
 * [Open Culture](http://www.openculture.com/) - Kostenfreie Musik, Vorträge, Kurse, Filme etc.
 * [Offene Lernplattform für den digitalen Geschichtsunterricht](https://segu-geschichte.de/)
+* [Textsammlung "The Politics of COVID-19 (The Syllabus)](https://the-syllabus.com/coronavirus-readings/)
 * Ein paar Beispiele zur Abwechslung:
     * [“Die Sendung mit der Maus” und zusätzliche Lernprogramme für Kinder](https://www1.wdr.de/nachrichten/die-wdr-maus-kommt-jetzt-taeglich-100.html)
     * [Hausmusik mit dem Pianisten Igor Levit im Livestream](https://twitter.com/igorpianist)
