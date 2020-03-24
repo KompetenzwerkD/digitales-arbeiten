@@ -1,6 +1,6 @@
 # Arbeiten in Zeiten von Corona
 
-*Stand: 23.03.2020*
+*Stand: 24.03.2020*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
@@ -21,13 +21,12 @@ Kontakt: [KompetenzwerkD@saw-leipzig.de](mailto:KompetenzwerkD@saw-leipzig.de)
 Hier gilt: Durch den erhöhten Bedarf ist aktuell mit technischen Ausfällen einzelner Anbieter zu rechnen. Wir empfehlen, einen Plan B und C zu haben. Leider muss dafür auch auf kommerzielle Anbieter zurückgegriffen werden. Eine gute Übersicht mit Einrichtungshinweisen einzelner Programme finden sich [hier](https://hochschulforumdigitalisierung.de/de/Toolsammlung-Corona).
 
 ### Weitere Programme
-* [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de/nur) 
-Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip [derzeit überlastet]
+* [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de/nur)  - Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip [derzeit überlastet]
 * [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software) [derzeit überlastet]
 * [Adobe Connect](https://www.adobe.com/products/adobeconnect.html)
 * [Google Hangouts](https://hangouts.google.com/)
 * [GoToMeeting](https://www.gotomeeting.com/de-de) [zeitweise überlastet]
-* [Jitsi](https://jitsi.org/)
+* [Jitsi](https://jitsi.org/) - [Offene Instanz von flyingcircus.io](https://jitsi.flyingcircus.io/)
 * [Skype](https://www.skype.com/de/)
 * [WebEx](https://www.webex.com)
 * [Zoom](https://zoom.us/kostenlose) 
