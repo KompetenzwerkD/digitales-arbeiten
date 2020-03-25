@@ -1,6 +1,6 @@
 # Arbeiten in Zeiten von Corona
 
-*Stand: 24.03.2020*
+*Stand: 25.03.2020*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
