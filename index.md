@@ -51,7 +51,11 @@ Es kann hilfreich sein, sich über andere Kommunikationsformen als E-Mails, Anru
 * [Riot](https://about.riot.im/) - Verschlüsselter Nachrichtendienst (Chat-Messenger) [manchmal sehr langsam]
 * [Discord](https://discordapp.com) - Verschlüsselter Nachrichtendienst, ursprünglich aus der Gaming-Community, für Text- und Sprachnachrichten
 
-## Tool zum kollaborativen Schreiben (Alternativen zu Google Docs, Dropbox etc.)
+## Tools zur Terminabstimmung
+
+* [Nuudel](https://nuudel.digitalcourage.de/) - Alternative zu Doodle, ohne Speicherung der Userdaten.
+
+## Tools zum kollaborativen Schreiben (Alternativen zu Google Docs, Dropbox etc.)
 Der Alltag wird immer mehr durch das gemeinsame Abfassen von Dokumenten aller Art bestimmt. Außer der neu aufgesetzten SAW-Cloud (basierend auf Nextcloud Hub und Only Office) haben wir folgende Vorschläge:
 * [AWW App](https://awwapp.com/#) - Digitales Whiteboard, auch zum Zeichnen
 * [HackMD](https://hackmd.io/) - Zum gemeinsamen Verfassen von Dokumenten (im Markdown-Format). Eine offene Instanz der Open Knowledge Foundation finden Sie [hier](https://hackmd.okfn.de/).
@@ -61,7 +65,7 @@ Der Alltag wird immer mehr durch das gemeinsame Abfassen von Dokumenten aller Ar
 * [Padlet](https://padlet.com/) - Zum gemeinsamen Arbeiten an Dokumenten, Präsentationen, Websites
 * [Sciflow](https://sciflow.net/de/) - Editor zum Schreiben und Formatieren wissenschaftlicher Texte
 
-## Tool für Projektmanagement (Aufgabenlisten etc.)
+## Tools für Projektmanagement (Aufgabenlisten etc.)
 Wenn Sie mehr benötigen als simple To-Do-Listen, dann werden Sie bei diesem Anbietern fündig:
 * [Asana](https://asana.com) - To do-Listen führen, Ziele im Team für ein Projekt definieren etc. auf Basis des Prinzips “KanBan”
 * [Trello](https://trello.com/de)
