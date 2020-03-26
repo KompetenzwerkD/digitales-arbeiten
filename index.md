@@ -1,6 +1,6 @@
 # Arbeiten in Zeiten von Corona
 
-*Stand: 25.03.2020*
+*Stand: 26.03.2020*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
@@ -22,11 +22,11 @@ Hier gilt: Durch den erhöhten Bedarf ist aktuell mit technischen Ausfällen ein
 
 ### Weitere Programme
 * [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de/nur)  - Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip [derzeit überlastet]
+* [Jitsi](https://jitsi.org/) - [Liste von öffentlichen Jitsi- Instanzen](https://github.com/jitsi/jitsi-meet/wiki/Jitsi-Meet-Instances)
 * [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software) [derzeit überlastet]
 * [Adobe Connect](https://www.adobe.com/products/adobeconnect.html)
 * [Google Hangouts](https://hangouts.google.com/)
 * [GoToMeeting](https://www.gotomeeting.com/de-de) [zeitweise überlastet]
-* [Jitsi](https://jitsi.org/) - [Offene Instanz von flyingcircus.io](https://jitsi.flyingcircus.io/)
 * [Skype](https://www.skype.com/de/)
 * [WebEx](https://www.webex.com)
 * [Zoom](https://zoom.us/kostenlose) 
@@ -61,6 +61,7 @@ Der Alltag wird immer mehr durch das gemeinsame Abfassen von Dokumenten aller Ar
 * [HackMD](https://hackmd.io/) - Zum gemeinsamen Verfassen von Dokumenten (im Markdown-Format). Eine offene Instanz der Open Knowledge Foundation finden Sie [hier](https://hackmd.okfn.de/).
 * [CryptPad](https://cryptpad.fr/) - Verschlüsselter Dienst für Richtext Dokumente, Spreadsheets, Todos, etc. Mit einer einfachen Anmeldung (ohne Angabe einer Email-Adresse) erhält man 50 MB Speicher.
 * [Etherpad](https://etherpad.org/) - Open Source-Dienst für Dokumente. Freie Etherpad Instanzen sind [hier](https://yourpart.eu/) und [hier](https://pad.riseup.net/) zu finden.
+* [ChaosPad](https://pads.ccc.de/)
 * [Limnu](https://limnu.com/) - Digitales Whiteboard zum Zeichnen und für Brainstorming
 * [Padlet](https://padlet.com/) - Zum gemeinsamen Arbeiten an Dokumenten, Präsentationen, Websites
 * [Sciflow](https://sciflow.net/de/) - Editor zum Schreiben und Formatieren wissenschaftlicher Texte
