@@ -59,7 +59,7 @@ Es kann hilfreich sein, sich über andere Kommunikationsformen als E-Mails, Anru
 Der Alltag wird immer mehr durch das gemeinsame Abfassen von Dokumenten aller Art bestimmt. Außer der neu aufgesetzten SAW-Cloud (basierend auf Nextcloud Hub und Only Office) haben wir folgende Vorschläge:
 * [AWW App](https://awwapp.com/#) - Digitales Whiteboard, auch zum Zeichnen
 * [HackMD](https://hackmd.io/) - Zum gemeinsamen Verfassen von Dokumenten (im Markdown-Format). Eine offene Instanz der Open Knowledge Foundation finden Sie [hier](https://hackmd.okfn.de/).
-* [CryptPad](https://cryptpad.fr/) - Verschlüsselter Dienst für Richtext Dokumente, Spreadsheets, Todos, etc. Mit einer einfachen Anmeldung (ohne Angabe einer Email-Adresse) erhält man 50 MB Speicher.
+* [CryptPad](https://cryptpad.fr/) - Verschlüsselter Dienst für Richtext Dokumente, Spreadsheets, Todos, etc. Mit einer einfachen Anmeldung (ohne Angabe einer Email-Adresse) erhält man 1 GB Speicher (aufgrund der aktuellen Situation wurde der freie Speicher von 50 MB auf 1 GB erhöht).
 * [Etherpad](https://etherpad.org/) - Open Source-Dienst für Dokumente. Freie Etherpad Instanzen sind [hier](https://yourpart.eu/) und [hier](https://pad.riseup.net/) zu finden.
 * [ChaosPad](https://pads.ccc.de/)
 * [Limnu](https://limnu.com/) - Digitales Whiteboard zum Zeichnen und für Brainstorming
