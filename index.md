@@ -1,6 +1,6 @@
 # Arbeiten in Zeiten von Corona
 
-*Stand: 26.03.2020*
+*Stand: 09.04.2020*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
@@ -29,8 +29,7 @@ Hier gilt: Durch den erhöhten Bedarf ist aktuell mit technischen Ausfällen ein
 * [GoToMeeting](https://www.gotomeeting.com/de-de) [zeitweise überlastet]
 * [Skype](https://www.skype.com/de/)
 * [WebEx](https://www.webex.com)
-* [Zoom](https://zoom.us/kostenlose) 
-Videomeetings für Gruppen jeweils nur bis maximal 40 Minuten
+* [Zoom](https://zoom.us/kostenlose) - Videomeetings für Gruppen jeweils nur bis maximal 40 Minuten. [Ein detailierter Überblick zu Datenschutz-Problematik auf Hackernews] (https://thehackernews.com/2020/04/zoom-cybersecurity-hacking.html): "The most important takeaway for regular users is simply to think carefully about their security and privacy needs for each call they make. Zoom's security is likely sufficient if it's just for casual conversations or to hold social events and organize lectures. For everything else that requires sharing sensitive information, there are more secure options like self-hosted Jitsi, Signal and Wire. Citizen Lab, which has identified a severe security issue with Zoom's Waiting Room feature, has encouraged users to use the password feature for a "higher level of confidentiality than waiting rooms.""
 
 ### Hinweise
 * Vor der Aktivierung des Video auf Hintergrund, Lichtverhältnisse und Kleidung achten.
