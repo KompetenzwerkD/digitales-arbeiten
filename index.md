@@ -1,6 +1,6 @@
 # Arbeiten in Zeiten von Corona
 
-*Stand: 09.04.2020*
+*Stand: 22.04.2020*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
@@ -21,15 +21,17 @@ Kontakt: [KompetenzwerkD@saw-leipzig.de](mailto:KompetenzwerkD@saw-leipzig.de)
 Hier gilt: Durch den erhöhten Bedarf ist aktuell mit technischen Ausfällen einzelner Anbieter zu rechnen. Wir empfehlen, einen Plan B und C zu haben. Leider muss dafür auch auf kommerzielle Anbieter zurückgegriffen werden. Eine gute Übersicht mit Einrichtungshinweisen einzelner Programme finden sich [hier](https://hochschulforumdigitalisierung.de/de/Toolsammlung-Corona).
 
 ### Weitere Programme
-* [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de/nur)  - Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip [derzeit überlastet]
-* [Jitsi](https://jitsi.org/) - [Liste von öffentlichen Jitsi- Instanzen](https://github.com/jitsi/jitsi-meet/wiki/Jitsi-Meet-Instances)
-* [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software) [derzeit überlastet]
-* [Adobe Connect](https://www.adobe.com/products/adobeconnect.html)
-* [Google Hangouts](https://hangouts.google.com/)
-* [GoToMeeting](https://www.gotomeeting.com/de-de) [zeitweise überlastet]
-* [Skype](https://www.skype.com/de/)
-* [WebEx](https://www.webex.com)
+* [Big Blue Button](https://bigbluebutton.org/) - Open Source und guter Datenschutz, unsere Empfehlung, auch für große Gruppen (Vorlesungen)
+* [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de/nur) - Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip 
+* [Jitsi](https://jitsi.org/) - [Liste von öffentlichen Jitsi- Instanzen](https://github.com/jitsi/jitsi-meet/wiki/Jitsi-Meet-Instances) - für kleinere Gruppen unter 10 Leute
+* [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software) - für kleinere Gruppen
+* [Adobe Connect](https://www.adobe.com/products/adobeconnect.html) - auch für größere Gruppen geeignet (500+ Leute)
+* [Google Hangouts](https://hangouts.google.com/) - abgespeckte Version, Google hat einige Funktionen eingestellt
+* [GoToMeeting](https://www.gotomeeting.com/de-de) - Datenschutz ähnlich problematisch wie Zoom
+* [Skype](https://www.skype.com/de/) - Datenschutz problematisch
+* [WebEx](https://www.webex.com) - es gibt eine Erweiterung innerhalb von SAW-Zimbra-Mail
 * [Zoom](https://zoom.us/kostenlose) - Videomeetings für Gruppen jeweils nur bis maximal 40 Minuten. [Ein detailierter Überblick zur Datenschutz-Problematik auf Hackernews](https://thehackernews.com/2020/04/zoom-cybersecurity-hacking.html): "The most important takeaway for regular users is simply to think carefully about their security and privacy needs for each call they make. Zoom's security is likely sufficient if it's just for casual conversations or to hold social events and organize lectures. For everything else that requires sharing sensitive information, there are more secure options like self-hosted Jitsi, Signal and Wire. Citizen Lab, which has identified a severe security issue with Zoom's Waiting Room feature, has encouraged users to use the password feature for a "higher level of confidentiality than waiting rooms." Mittlerweile bieten Browser Addons an, mit denen man die Installation des Zoom-Clients entgehen kann, hier für [Mozilla Firefox](https://addons.mozilla.org/de/firefox/addon/zoom-redirector/) und für [Chrome](https://chrome.google.com/webstore/detail/zoom-redirector/fmaeeiocbalinknpdkjjfogehkdcbkcd?hl=en).
+* Tools innerhalb von Clouds, z. B. "Talk" innerhalb der SAW-Cloud (basiert auf Nextcloud), nur für kleinere Gruppen unter 10 Leute
 
 ### Hinweise
 * Vor der Aktivierung des Video auf Hintergrund, Lichtverhältnisse und Kleidung achten.
@@ -53,6 +55,7 @@ Es kann hilfreich sein, sich über andere Kommunikationsformen als E-Mails, Anru
 ## Tools zur Terminabstimmung
 
 * [Nuudel](https://nuudel.digitalcourage.de/) - Alternative zu Doodle, ohne Speicherung der Userdaten.
+* [Dudle](https://dudle.inf.tu-dresden.de/?lang=de) - dito, entwickelt von der TU Dresden, auch für Umfragen geeignet.
 
 ## Tools zum kollaborativen Schreiben (Alternativen zu Google Docs, Dropbox etc.)
 Der Alltag wird immer mehr durch das gemeinsame Abfassen von Dokumenten aller Art bestimmt. Außer der neu aufgesetzten SAW-Cloud (basierend auf Nextcloud Hub und Only Office) haben wir folgende Vorschläge:
